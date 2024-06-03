@@ -1,0 +1,10 @@
+.item{
+  font-weight: 500;
+  font-size: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: burlywood;
+}
+
+.item:hover{
+  background-color: lightgreen;
+}
